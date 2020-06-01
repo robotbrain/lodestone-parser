@@ -20,13 +20,13 @@ class ClassJobsData
      */
     const CLASS_JOBS = [
         0 =>  [ 0, 0, 'Adventurer' ],
-        1 =>  [ 1, 19, 'Gladiator' ],
-        2 =>  [ 2, 20, 'Pugilist' ],
-        3 =>  [ 3, 21, 'Marauder' ],
-        4 =>  [ 4, 22, 'Lancer' ],
-        5 =>  [ 5, 23, 'Archer' ],
-        6 =>  [ 6, 24, 'Conjurer' ],
-        7 =>  [ 7, 25, 'Thaumaturge' ],
+        1 =>  [ 1, 1, 'Gladiator' ],
+        2 =>  [ 2, 2, 'Pugilist' ],
+        3 =>  [ 3, 3, 'Marauder' ],
+        4 =>  [ 4, 4, 'Lancer' ],
+        5 =>  [ 5, 5, 'Archer' ],
+        6 =>  [ 6, 6, 'Conjurer' ],
+        7 =>  [ 7, 7, 'Thaumaturge' ],
         
         8 =>  [ 8, 8, 'Carpenter' ],
         9 =>  [ 9, 9, 'Blacksmith' ],
@@ -49,11 +49,11 @@ class ClassJobsData
         24 => [ 6, 24, 'White Mage' ],
         25 => [ 7, 25, 'Black Mage' ],
         
-        26 => [ 26, 27, 'Arcanist' ],
+        26 => [ 26, 26, 'Arcanist' ],
         27 => [ 26, 27, 'Summoner' ],
         28 => [ 26, 28, 'Scholar' ],
         
-        29 => [ 29, 30, 'Rogue' ],
+        29 => [ 29, 29, 'Rogue' ],
         30 => [ 29, 30, 'Ninja' ],
         
         31 => [ 31, 31, 'Machinist' ],
